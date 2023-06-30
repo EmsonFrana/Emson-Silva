@@ -1,0 +1,32 @@
+/* Experiência Acadêmica*/
+
+section.academic{
+    align-items: center;
+    background: var(--cor-azul10);
+    padding: 3rem;
+}
+.academic__title{
+    font-weight: 700;
+    font-size: 25px;
+    text-align: center;
+}
+.academic__courses{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 3rem;
+}
+.academic__courses__item__img{
+    display: flex;
+    height: 50px;
+    justify-content: center;
+    padding: 3rem;
+}
+
+@media (min-width: 768px) {
+    
+}
+@media (min-width: 425px) {
+    
+}

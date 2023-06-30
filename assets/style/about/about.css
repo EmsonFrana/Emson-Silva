@@ -1,0 +1,34 @@
+/*Sessão About*/
+
+section.about{
+    align-items: center;
+    background: var(--cor-azul10);
+    padding: 3rem;
+}
+.about__container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+}
+.about__title{
+    font-weight: 700;
+    display: flex;
+    justify-content: space-around;
+    font-size: 25px;
+    padding-bottom: 2rem;
+}
+.about__paragraph{
+    display: flex;
+    flex-direction: row;
+    font-weight: 400;
+    
+}
+
+@media (min-width:768px) {
+    
+}
+
+@media (min-width:425px) {
+    
+}

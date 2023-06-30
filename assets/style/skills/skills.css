@@ -1,0 +1,32 @@
+/* Sessão Skills */
+section.skills{
+    font-weight: 700;
+    align-items: center;
+    padding: 3rem;
+}
+.skills__title{
+    font-size: 25px;
+    padding: 2rem;
+    font-weight: bold;
+    text-align: center;
+}
+.skills__line{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 3rem;
+}
+.skills__box{
+    display: flex;
+    padding: 16px;
+    text-align: center;
+    align-items: center;
+}
+
+@media (min-width:768px) {
+
+}
+@media (min-width:425px) {
+    
+}

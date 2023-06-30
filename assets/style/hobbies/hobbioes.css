@@ -1,0 +1,31 @@
+/*Sessão Hobbies*/
+
+section.hobbies{
+    align-items: center;
+    padding: 3rem;
+}
+.hobbies__title{
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    padding: 2rem;
+}
+.hobbies__container{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 3rem;
+}
+.hobbies__box{
+    padding: 16px;
+    flex:none;
+    justify-content: space-evenly;
+    flex-direction: row;
+    text-align: center;
+}
+
+@media (min-width:768px) {
+    
+}
+@media (min-width:425px) {
+    
+}
